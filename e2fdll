@@ -1,0 +1,576 @@
+MZ       ÿÿ  ¸       @                                   °   º ´	Í!¸LÍ!This program cannot be run in DOS mode.
+$       ë 5Û¯A[ˆ¯A[ˆ¯A[ˆhG]ˆ®A[ˆRich¯A[ˆ                PE  L é©ýZ        à !
+      @                   `                     P     E7                                          X            P  ÈK   @                                                                                     .rsrc   X       0                 @  @.reloc      @      @              @  B                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+      €   8  €                  P  €                  h  €               	  €                  	       P             d          d4   V S _ V E R S I O N _ I N F O     ½ïþ                 ?                        Ä   S t r i n g F i l e I n f o       0 4 0 9 0 4 B 0   D   C o m p a n y N a m e     I n t e l   C o r p o r a t i o n    4  F i l e D e s c r i p t i o n     I n t e l ( R )   2 . 5 G   G i g a b i t   A d a p t e r   E v e n t - L o g   M e s s a g e   D L L   0   F i l e V e r s i o n     0 . 0 . 0 . 2   6 
+  I n t e r n a l N a m e   e 2 f m s g . d l l     ž =  L e g a l C o p y r i g h t   C o p y r i g h t   ( C ) ,   2 0 1 7   I n t e l   C o r p o r a t i o n .     A l l   r i g h t s   r e s e r v e d .     > 
+  O r i g i n a l F i l e n a m e   e 2 f m s g . d l l     6 
+  P r o d u c t N a m e     e 2 f m s g . d l l     4   P r o d u c t V e r s i o n   0 . 0 . 0 . 2   D    V a r F i l e I n f o     $    T r a n s l a t i o n     	°        `$ `$  ( `* `Ô  5 `5 `¨  8 `= `ð  @ `@ `à  F `F `  I `I `˜  L `L `(       œ       È   %  %  ˜  6  6  D	  A  C  	  E  E  L
+  J  J  ì
+  M  M  Ä  O  P  X
+   à  à„   à à   + à4 àô  D àD à@  G àH àà  K àK àT  N àN àˆ  H   %2%n
+Network link has been established at 10Gbps full duplex.%n
+  H   %2%n
+Network link has been established at 1Gbps full duplex.%n
+   H   %2%n
+Network link has been established at 100Mbps full duplex.%n
+ H   %2%n
+Network link has been established at 100Mbps half duplex.%n
+ H   %2%n
+Network link has been established at 10Mbps full duplex.%n
+  H   %2%n
+Network link has been established at 10Mbps half duplex.%n
+  \   %2%n
+Intel SmartSpeed has downgraded the link speed from the maximum advertised.%n
+   <   %2%n
+The network adapter driver has been stopped.%n
+  <   %2%n
+The network adapter driver has been started.%n
+  H   %2%n
+Jumbo Frames cannot be configured when MACSec is enabled.%n
+ `   %2%n
+The network driver has been stopped because the network adapter has been removed.%n
+ H   %2%n
+Network link has been established at 2.5Gbps full duplex.%n
+ p   %2%n
+Network link has been established at 25Gbps full duplex, Requested FEC: %3, FEC: %4, Autoneg: %5.%n
+ H   %2%n
+Network link has been established at 40Gbps full duplex.%n
+  H   %2%n
+Network link has been established at 50Gbps full duplex.%n
+  H   %2%n
+Network link has been established at 20Gbps full duplex.%n
+  8   %2%n
+This network adapter's etrack ID is: %3.%n
+  €   %2%n
+The driver for the device detected an older version of the NVM image than expected. Please update the NVM image.%n
+     %2%n
+The 'Speed and Duplex' and 'Flow Control' user settings cannot be changed since this device is operating in virtual connect mode.%n
+ t   %2%n
+Network link has been established at 25Gbps full duplex, Requested FEC: %3, FEC: None, Autoneg: %4.%n
+   ,   %2%n
+Network link is disconnected.%n
+ Ð   %2%n
+PROBLEM: The network adapter is configured for auto-negotiation but the link partner is not.  This may result in a duplex mismatch.%n
+ACTION: Configure the link partner for auto-negotiation.%n
+   ¬   %2%n
+PROBLEM: PCI Express bandwidth available for this adapter is not sufficient for optimal performance.%n
+ACTION: Move the adapter to a x8 PCI Express slot.%n
+    L   %2%n
+PROBLEM: A malicious VF driver has been detected on VF ID %3.%n
+ ¸   %2%n
+PROBLEM: PCI Express bandwidth available for this adapter is not sufficient for optimal performance.%n
+ACTION: Move the adapter to a Generation 3 x4 PCI Express slot.%n
+   ¸   %2%n
+PROBLEM: PCI Express bandwidth available for this adapter is not sufficient for optimal performance.%n
+ACTION: Move the adapter to a Generation 3 x8 PCI Express slot.%n
+   L   %2%n
+The partition detected link speed that is less than 10Gbps.%n
+       %2%n
+The driver for the device detected a newer version of the NVM image than expected. Please install the most recent version of the network driver.%n
+  Ø   %2%n
+PROBLEM: Virtualization features disabled because NumVFs was set to zero while SRIOV is enabled.%n
+ACTION: To enable virtualization features, set NumVFs to a non-zero value then restart the adapter.%n
+   ”   %2%n
+PROBLEM: The driver failed to load because EEPROM Checksum validation failed
+ACTION: To resolve the issue, please flash the valid NVM
+  °   %2%n
+Firmware recovery mode detected. Limiting functionality. Refer to the Intel(R) Ethernet Adapters and Devices User Guide for details on firmware recovery mode.%n
+    |   %2%n
+PROBLEM: Rdma is supported but unavailable.%n
+ACTION: Remove Rdma support from an existing Rdma enabled VF.%n
+  ˜   %2%n
+PROBLEM: Unable to allocate the map registers necessary for operation.%n
+ACTION: Reduce the number of transmit descriptors and restart.%n
+  ä   %2%n
+PROBLEM: Could not assign an interrupt for the network adapter.%n
+ACTION: Try a different PCI Express slot.%n
+ACTION: Install the latest driver from "http://www.intel.com/support/go/network/adapter/home.htm".%n
+    ¨   %2%n
+PROBLEM: The EEPROM on the network adapter may be corrupt.%n
+ACTION: Visit "http://www.intel.com/support/go/network/adapter/home.htm" for assistance.%n
+    ¤   %2%n
+PROBLEM: Unable to start the network adapter.%n
+ACTION: Install the latest driver from "http://www.intel.com/support/go/network/adapter/home.htm".%n
+   ¨   %2%n
+PROBLEM: The MAC address on the network adapter is invalid.%n
+ACTION: Visit "http://www.intel.com/support/go/network/adapter/home.htm" for assistance.%n
+   ¤   %2%n
+PROBLEM: Could not allocate shared memory necessary for operation.%n
+ACTION: Reduce the number of transmit and receive descriptors, then restart.%n
+    œ   %2%n
+PROBLEM: Could not allocate memory necessary for operation.%n
+ACTION: Reduce the number of transmit and receive descriptors, then restart.%n
+   ¤   %2%n
+PROBLEM: Could not allocate a resource pool necessary for operation.%n
+ACTION: Reduce the number of transmit and receive descriptors, then restart.%n
+  ¤   %2%n
+PROBLEM: Could not initialize scatter-gather DMA resources necessary for operation.%n
+ACTION: Reduce the number of transmit descriptors and restart.%n
+ Ä   %2%n
+PROBLEM: Could not map the network adapter flash.%n
+ACTION: Install the latest driver from "http://www.intel.com/support/go/network/adapter/home.htm".%n
+ACTION: Try another slot.%n
+  „   %2%n
+PROBLEM: The fan on the network adapter has failed.%n
+ACTION: Power off the machine and replace the network adapter.%n
+ ø   %2%n
+PROBLEM: The driver was unable to load due to an unsupported SFP+ module installed in the adapter.%n
+ACTION: Replace the module.%n
+ACTION: Install the latest driver from "http://www.intel.com/support/go/network/adapter/home.htm".%n
+   Ì   %2%n
+PROBLEM: The network adapter has been stopped because it has overheated.%n
+ACTION: Restart the computer. If the problem persists, power off the computer and replace the network adapter.%n
+    `   %2%n
+PROBLEM: The network adapter link speed was downshifted because it overheated.%n
+    X   %2%n
+PROBLEM: The network adapter has been stopped because it has overheated.%n
+      %2%n
+The driver for the device stopped because the NVM image is newer than the driver. You must install the most recent version of the network driver.%n
+ È   %2%n
+Rx/Tx is disabled on this device because an unsupported SFP+ module type was detected. Refer to the Intel(R) Ethernet Adapters and Devices User Guide for a list of supported modules.%n
+    ¬   %2%n
+PROBLEM: The driver failed to load because the adapter was not provided MSI-X interrupt resources.%n
+ACTION: Move the adapter to another slot or platform.%n
+   4  %2%n
+PROBLEM: The driver failed to load because the device is connected to a switch that is not advertising traffic class 0.%n
+ACTION: To resolve the issue, disconnect the device from the switch or configure the switch to advertise TC0, restart your system, then restart the driver installation.%n
+   È   %2%n
+Rx/Tx is disabled on this device because the module does not meet thermal requirements. Refer to the Intel(R) Ethernet Adapters and Devices User Guide for a list of supported modules.%n
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ÈK    0‚K»	*†H†÷
+  ‚K¬0‚K¨10
+	`†He 0x
++‚7 j0h03
++‚70%   ¢€ < < < O b s o l e t e > > >010
+	`†He  j@Áñð4°Åð;M¡ŸoÏÊEöâ'g¨TiÃ÷?‹e  ‚Ü0‚L0‚4 3   5ØÕY[qA+     50
+	*†H†÷
+ 01
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1)0'U Microsoft Code Verification Root0
+130815202630Z
+230815203630Z0o1
+0	USE10U
+
+AddTrust AB1&0$U
+AddTrust External TTP Network1"0 UAddTrust External CA Root0‚"0
+	*†H†÷
+ ‚ 0‚
+‚ ·÷3æò -9àN[í¼lÍµú#¶ÎÞ›3—¤)L}“Ÿ½J¼“íãÏåmPZÖ—)”Z€°IzÛ.•ý¸Ê¿78->‘A­pVÇðO?è2žtÊÈTéÆ_xš@<¬aª^ž‡¡jPÜ×šN¯³¦q”œq³P`
+Ç8 †¨é¨i&«L°O#«:O„ØßÎŸáio»×B×kDäÇ­îmA_rZq7³ye¤Y ”7÷ /
+Â’rÚÐ8rÛ¨EÄ]*}·´ÖÄî¬ÍD·É+ÝC %úa¹ijX#·§3VuYõÍ)×F·
++e¶ÓBo²¸{ûïé]SÕ4Z' £Ð0Í0U%0
++ 0Uÿ0ÿ0U­½˜z4´&÷úÄ&Tï½à$ËT0
+U†0U#0€bû
+![CnÚ	TPkõÒ–qñž0UUN0L0J H F†Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+	*†H†÷
+ ‚ 6+¢òá3ä“÷òi…ÆdÉ›c/äp7˜ý”ì{Ïø¡BFùíjN4i6Uz»­Œ™B–é%¨&„¾Á¿©|ª[·ýÑÀô¾(íõwÇ›þ:öèÁ{Ó‚«úNÏ+ÏåÕµH@±£ƒ‹­+%S«¦4ÎòC÷O,éÝNZ¶ºè;™$ ¼Pýxöå#¨‰”“÷·A07JW·æDÙÉß™ªDüt¯‚dÌ Ë¶	Ã.ãè2§´ŸAxÇ¡„6Tbòì
+ÈêÐ„øñàkôV_•àüÝ·v“þ)J%é ñ´É„žÛ}õ¥Ž6):mlFK×«p$(£ÙÕ$òø Ñ<‚9Ô¨‚i:	üðÇY3„6“A‘#,"¥§+P´(®ÛF°Y†³›‡èIN9
+mßL0_t®õ[YSì˜àÐb5uH¸}åzH¸wR¤ ˜%;›zNjoD†OO'y'=PsALœA>Ý)s±ÇûveëÒP’AIìä}6Do‰¿i}ùM@Á:˜¶ ~1Òµ®ÊûSÕ?P†Í^“;m]|š??÷©%X„ÝI ¢ÇÈž7ÝwŽmq‹à[4]TºÌõ“Gˆmçï[â(ä€@ä*Ñ#eZ¬™”C?FU&ÖÄúˆ•â‘š£-
+…Þ¬ŒàùgpŸqy1÷a¢)Ä0‚t0‚\ 'fîVëIóŽ«×p¢ü„Þ"0
+	*†H†÷
+ 0o1
+0	USE10U
+
+AddTrust AB1&0$U
+AddTrust External TTP Network1"0 UAddTrust External CA Root0
+000530104838Z
+200530104838Z0…1
+0	UGB10UGreater Manchester10U  Salford10U
+COMODO CA Limited1+0)U"COMODO RSA Certification Authority0‚"0
+	*†H†÷
+ ‚ 0‚
+‚ ‘èT’Ò
+V±¬
+$ÝÅÏDgt™+7£}#p q¼SßÄú*KV½Ÿpr·aÉK§=ã°aîÿ—Çô†>
+ú>\ù“æ4zÙkçœ³… ‚zv¯q×ìý
+úœlúß°‚ô~ù¾Ä¦/O™µügCr½ Ö‰ëk,Óí˜«~åãnüØ¨ä’$ÚCkb¸UýêÁ¼l¶‹óšä›li™øxH0EÕ­á
+<E`ü2–Q'¼gÃÊ.¶kêFÇÇ  ±eÞHº¤N©òƒF7„ëèÌHCgNr*›\½L(Š\"{´«˜ÙîàQƒÃ	FNm>™ú•Ú|3WA<Qí
+¶\¯,cßWÈ?¼é]Ä›¯E™â£Z$´º©V=ÏoªÿIX¾ð¨ÿô¸­é7ûº¸ô
+:ùèCB‰Ø„ËñÙ»á‰`¸Œ(V¬œ
+çqëÏÝ=©–¡H½<÷¯µ
+"LÀìV;öÓ¢â[·²"R•€“ièŽLeñ‘-ptê‹g)iR»×ßPjUF¿ £(apÐÃ¢ª,!ªGÎ(œEv¿‚'´Õ®´ËPækôL†q0é¦ß†àØÿ@ÝûÐBˆ£3:.\AcÎqk+ì¦Š·1\:jGàÃyYÖ ¯òj˜ªr¼WJÒK»ü°LAåí=^(œÌ¿³QÚ§Gå„S £ô0ñ0U#0€­½˜z4´&÷úÄ&Tï½à$ËT0U»¯~=ú¦ñ<„Ž­î8˜ìÙ22Ô0Uÿ†0Uÿ0ÿ0U 
+00U  0DU=0;09 7 5†3http://crl.usertrust.com/AddTrustExternalCARoot.crl05+ )0'0%+ 0†http://ocsp.usertrust.com0
+	*†H†÷
+ ‚ d¿ƒñ_š…ÐÍ¸¡)W
+èZ÷Ñé>òvnñRp»<ÿM
+tjÌ‚%ÓÃ *]Lõº‹¡mÄT	uÇã']„y7@wõ´¬Ð;«Öï4~+éyÓ«WE¯(úÐÛåP•ˆ»ß…Wi}’ØRÊs¿óæ¸nf³”-‘•’YñLÎ£‘qL|G;
+ö¡±l†>\ªÄ.‚Ëù –ºHMò”È©s¢ë{#Þ¢óMUŸzaE˜hÇ^@k#õyzïŒµk‹·oFô{ñ=KØ“€YZàA$²`XGÛïnFýõÙ_š³ÛØ¸ä@³Í—9®…»Ž¼Ü‡›Ñ¦ïñ;o8o0‚Ã0‚« V  9' trÙ¹››    90
+	*†H†÷
+
+ 0s1
+0	UUS1
+0	UCA10U 
+Santa Clara10U
+Intel Corporation1%0#UIntel External Issuing CA 7B0
+160922205210Z
+180922205210Z0m1
+0	UUS1
+0	UCA10U 
+Santa Clara10U
+Intel Corporation10UIntel(R) INTELND1617S20‚"0
+	*†H†÷
+ ‚ 0‚
+‚ êÁ sÔ5_NHñÓŸÛžˆW	ÔÄŒ6àÂ=×4Ý‡H²ÈEž]4J­¤‹þ`¹L,÷ZéŒ¾Ï		+Ï$ï!ùIÛ© |p+Zdä"!Ó)¤s¢uò!¶Š\jü*,Œx±£Ö	2œp;@+ƒt8{ÈãKô„B}\ÿ£	˜o	a†Æf|Å@†Ã¡á–>üƒ„pLœDå/ø„ÄÛÅùži¢ÄÀ6 \œkÜŸ"¹W6Ñå bwVÐSÿ·¢ÚR°=¼X
+6è‰U Jò*k¸LB\|Ö3ü=ä€_é:ZSåX0b¨²©vCò%€“´M £‚T0‚P0Uê&^¢¬H„?V;Ù^kË‘VT«0U#0€²Àg¦V'ytÃõÅ¥‰fÖñ.607U00.0, * (†&http://pki.intel.com/crl/IntelCA7B.crl0f+ Z0X02+ 0†&http://pki.intel.com/crt/IntelCA7B.crt0"+ 0†http://OCSP.intel.com/0Uÿ0 0
+U €0=	+‚7 00.&+‚7†ÃŒu„™åQƒý(…ŽŸS‚‘À	g…‰öd…é’Pd0U%0
++ 0
+	*†H†÷
+
+ ‚ TÇN)¢3À#1‹·3R–½2/âÐÃ‘9úd»Bdœ#´þïJm 3Èhæ¼
+Ä‰þ·
+šxœ$JÛ`«)1º":°£_ ÜÛÔÂ=Ñ¢ÄTuÈ%q%cj)M*Õ‹OB¤[lP™DB±P¤dI·-©ŸµÉmÔµ?ØFšØÒuMZ°Þ:fÉ+/",]C‰0 ?XBçMu$2PŸÀU§¿¸ê0qq7‘Hî(<æ'ûã¾ˆ§	QÈyÍä‰U€E7 ¶ÛïÚCA‡	<…ðJ*íµ÷îï'g[
+Só…VUêŒf*˜Ù©
+¸Ý~öwº23sŽ‡@_î¡+–Q^~Ø¬ÜÉ€ùÿû ¨"úœï¨¸“]'Öí§±Ï$àÍ
+U¯ÓÔ›±f¥±Ô¹«×–˜‚Áï	fåá}¡Šÿ©žKÄ‹ .Ñ³ˆ×q·F÷Ó@°šYä€”XÔƒÛŸäÆðÙ'40Äzè’rã#ìÛmÄÑ:­•«\¨Ø“.	’/>‰@™gÍ‹!PAÕÏJeè # 	D‘añ[ýPüoa-u]¶Ã”Ï­…Uk2Ã±IªÔ!ñ
+B,«¢¢÷sk cPl ƒ7ž¾lâ<Â¡E‚.Ôn&}
+Øé‚¸kåì¢›!0È+PM¬/7Q³
+½è•ÛCƒR0‚ I0‚1 ›^™'r„Èvh§Þ°ó0
+	*†H†÷
+ 0…1
+0	UGB10UGreater Manchester10U  Salford10U
+COMODO CA Limited1+0)U"COMODO RSA Certification Authority0
+151028000000Z
+210617235959Z0s1
+0	UUS1
+0	UCA10U 
+Santa Clara10U
+Intel Corporation1%0#UIntel External Issuing CA 7B0‚"0
+	*†H†÷
+ ‚ 0‚
+‚ ºZoñ_
+TºÖ¢ë^¬=Î…šJÊd"ŠiWÏ :$€×»àSÜ©KÏl±¾¢àE{lfÔOn"íóR˜¢z57Šlì¸1†Ig)Ç´³ˆpÐ™+Ä÷îó¼$Ž†“Òy
+ç®ÜZ1©¢ç€	úZ’Qg0ï;±ô±ýN«h%çÛU`s{¿ LBž)fz<ã} B™ž5\ƒåHßA|³žé—*ÃúF#©&Âeñ•âWM¦ª€³‰Q·2–C%ô/øÌÏxtu
+®/¡ 
+üM#Æ†¶ÝaÇ¦¿—í@ãýå-³ÁïíëdyŒ®i’ëF*Ô!ÑYúü6é—Fy(3£Y+ôæp<J‰²É>wHÔ
+|¬EåD)\óÈMŽ&žðT… íŸëîÏâÁº­ÓªÕD­´t« Ý r^œ¦´ãöF¡ TWÈ&ãHsÑ˜hÑ‘¬¬:vìKã6…“bÀ!Hh
+ŠÅ”%(ÕÔ éþPSƒ‘la  ü@÷—Í2{
+z7£ûì^úsãºÄ’Ðqôûa•mW[f-j ~U0»¬‰_Êqí\Ž… rFÌ!ýcßG?ÒùPKßoÒÌ›ŽW •¯cV‹!P	Ï•ïŸ6÷+{ÿ€qP¯}KšžÐ÷D°`”£Š0žë £‚Ä0‚À0U#0€»¯~=ú¦ñ<„Ž­î8˜ìÙ22Ô0U²Àg¦V'ytÃõÅ¥‰fÖñ.60Uÿ†0Uÿ0ÿ 0>U%705+ + + 
++‚7
+	+‚70"U 00
+
+*†H†øMi0g0LUE0C0A ? =†;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q+ e0c0;+ 0†/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$+ 0†http://ocsp.comodoca.com05U.0, *0
+	intel.com0 
++‚7 
+	intel.com0
+	*†H†÷
+ ‚ 5»êÌ›`ÐuRŽ€•ENž¿nÀ»dªÃn±F^/è/HÌ„÷­™;ÿú…h)°Ó|1â´{Áfâ¥;Ç)˜5®c¨E •aÛM¹
+kÓ™dÎ_‹¸lF nZ
+>çë·1¡!õÞ;{i6ñ ¹ª¿VaV×Ì’?)ÔÙkØ"/VõjÑFè€9z’<gH·âú7gâß)-ªC(.®,FB$¾m»jˆI¦L ßåeOúáÁ¾qÕø^õf’²;dáè®¬™U½Ûß “O?Vò;ƒÕÒ·ÁZR@Bã>‘ ÷5´‘ðMá4iHyÀí0É“„Õrm€9ôY« Øùÿp&#{ìÅ 3"|= :í´(¼zç
+Á?|0NP¸g×d·ÃÅ …ÊÎÕ&*T¹ÿ"ø¨'<Ê…7îå/fbc‡j^Ï)Ó¸‘x·ar{Á¦"ÚÐ‘%ö		&°-¬€ˆt3_ÇàDÁ0™vØw±Gïi’+í®X)c 5Žä·ñÚ:²2€±È¼ðçq z3:è¤ØyÙÙSÍ›þ²h[ˆ„…k qÐO“
+ `4Òs¿ßãÇ-™ž“•³‡˜BZ‘cR9ŠJ*ÂL{pi:<ñû/ÿ
+‡”äjÏ›´£©ê*Ü¯+ŒDý:X}2x¢ÕÉtÅ1‚360‚320Š0s1
+0	UUS1
+0	UCA10U 
+Santa Clara10U
+Intel Corporation1%0#UIntel External Issuing CA 7BV  9' trÙ¹››    90
+	`†He  j0	*†H†÷
+	1
++‚70
++‚7
+10
++‚70/	*†H†÷
+	1" )Øô»Ÿ,û-OÃÎššÑ-¢NûTzãL”ßz0
+	*†H†÷
+ ‚ ŠNØ=[a®šï,· [»@iV]\g6êÖq\ÕÍëq:µü]Yo„E{ÅZÒ‚A{¼<”¼mQ7 ÀÖÙâàFý¥Y†ºH²ƒ§šÙ;½“Ìé¼§¸,üãÆ¼aì•}ñ"šÏ’ÎÉ+´ÇäjlFPkÚ‰ï¶y$³ó¯­Ÿ0q^EÙ9¶NEÿ'î˜Gu–¿HP÷ÿ6Ý¡°ŸÊ! b<èÒêþ¨ÓóÈÉÆÍnÊ—PUÇ<œ!_C¾ŠG,‡Ö¼P5€„Lk\	ÿ0%eBl×ã0´ ˜±ã¡BÆù*nëª7šé@º›po%@ ‰^2Y7[†¡‚10‚X
++‚71‚H0‚D	*†H†÷
+  ‚50‚110
+	`†He 0‚#
+*†H†÷
+	 ‚‚0‚
+
++„Y
+010
+	`†He  cÂYˆ1D˜ƒ_ê!C¸ÀÑ
+$ã¾´
+68U²×sï§Zù¸ É20180517161233.028Z0€ôj•,s
+»öÝ ˜¤•0’1
+0	UUS1
+0	UCA10U 
+Santa Clara10U
+Intel Corporation1&0$U
+Thales TSS ESN:0E37-9649-08C510Utimestamp.intel.com ‚
+b0‚€0‚h i²ÑÌð. ÜÉ\b‰Ož__ÀW¿0
+	*†H†÷
+
+ 01
+0	UBM10U
+QuoVadis Limited1%0#U
+Root Certification Authority1.0,U%QuoVadis Root Certification Authority0
+140530163555Z
+210317183333Z0I1
+0	UBM10U
+QuoVadis Limited10UQuoVadis Issuing CA G40‚"0
+	*†H†÷
+ ‚ 0‚
+‚ ÄQ¨ý/ø\è™z1šF“bLçb[%¤—Ë@÷™<ÙÖqÌó&ÜÕ?Yh¦ždy¥'ÀAÌ˜öÈ$@‰Ä¡*[G 	ðÿÌŽd¾îÑ_Ç üüœVºQ]¼:ÅÏªêàíêdÝó“¡KçQ[2´»Y\ðÂ¤È‰’µWDÚ¼<J3rÏÚ'oívÉ(RI8aË®·pŠ-ˆX¨cŒ2¢Ó Â*»`(rÂÓøËú<;uf;ˆOb>m:©p·‹f’Mêœáäü„\±…1§tm¤—t¶=‹|ïüÁ˜Ï¼Øª!L’IÇâÇ£÷4”·/	äºÞÔÓg8-?²8æàô8„• ïpî8Ìƒegy@œ»ÄÉJ¹Æ
+ÑÅ‘8GUJU®4Jˆ¨H@YÈ	Ìžg€
+ ºSi¡_ Š…lÉ¶r¢ÃSûÓŒ¬nL=Zu5î±ûDC8Ï!TŸõJáÆk×Œk›=+ÇoðŠñÀ¤ö%ê[3-Ó&ŒEzlå”)¸A`3ÚI`5—þ‚1²‹´#d„4ödV¢W‰b¬B9¬ ©üháü>]ñÄo)RÓ¯J‹ó|€Ó»V‰iöZ*Ã³,HË·ß‹¯-A¶9×yAÓÆvP9Ž‡„N|Ó5påb¯êªÇSPq;=ERaÿ¹Á×:»M £‚(0‚$0Uÿ0ÿ 0U 
+00U  0q+ e0c0*+ 0†http://ocsp.quovadisglobal.com05+ 0†)http://trust.quovadisglobal.com/qvrca.crt0Uÿ0U#0€‹KmíÓ)¹ì99©ð—„jËïß08U10/0- + )†'http://crl.quovadisglobal.com/qvrca.crl0Uó4ñŒÆö²§´™KpŠÊ`¡ËE0
+	*†H†÷
+
+ ‚ ¹öRµ§*M„wC	¤Û g´`Bô½Äÿ,Z.xÅcÈJì'ö|ä)ÐÏ`úh"ÚRv
+òTÆö¡Ì‚äÃ:m™"|ÄÀw´æ G“@9ÏÜU­ÃF¯)MyœdL _ŠVüF _Ë˜Ý‘z9´¯Äw™kž¬Þo-yê×$˜Rýi>ír¬?Ð´í°ðËóœQ#ŒÇÜi}2–äGv”ƒ>ˆ’[X˜iÇõÓòaRPë4 ý&00µýpç',7
+óç¦, C¶Kˆ^—Á0}`d*óphDQcYŸÛWÂÿ€åÂ’Ø/ïÕCÿd-d„\RcÂg0‚Ú0‚Â <¥Õ%u)¥º<s´Io¢Á°ÅlŸ0
+	*†H†÷
+
+ 0I1
+0	UBM10U
+QuoVadis Limited10UQuoVadis Issuing CA G40
+180420165241Z
+210317183333Z0’1
+0	UUS1
+0	UCA10U 
+Santa Clara10U
+Intel Corporation1&0$U
+Thales TSS ESN:0E37-9649-08C510Utimestamp.intel.com0‚"0
+	*†H†÷
+ ‚ 0‚
+‚ çgmE™ºéšñ #ô‹æCd›')0ùé	‘Ý³¥ñÜªþ´j¾3ÕœœO(@8”r=à€ª*ü"2HXù:ß¿KÂërÇ_Ì0ý-BÈÐU1ñ#/——Ž™?ã¿,÷ófÌMäît.²#B,XWRŸpð|”š¶ƒ_Òñ“`§
+5¬˜jd1wÎŒ°€¸ƒ‰è°kzÇueñG”ÑïÌ "!Ã\
+ý¹#Ü§Ë^?ñÜÃ½	ÔlØKût ÒL•ÈFÌiRZõüsò–ÿøZV’w6E¹(¬ðŠí{†íÌGYo#9Q-¶"·LÕ={@Û«¯–ùÅyZeK £‚n0‚j0s+ g0e0*+ 0†http://ocsp.quovadisglobal.com07+ 0†+http://trust.quovadisglobal.com/qvicag4.crt0OU H0F0D
++¾X„X0604+ (http://www.quovadisglobal.com/repository0UÿÀ0U%ÿ0
++ 0U#0€ó4ñŒÆö²§´™KpŠÊ`¡ËE0:U3010/ - +†)http://crl.quovadisglobal.com/qvicag4.crl0U¹kÐÇquÿK˜
+ç@‹yåÔ0
+	*†H†÷
+
+ ‚ ¤,‘ëÿt9Ðõ î¬ÁÝ¤Oy‘ïšëŽð®Wã¥|SéZr7“Åøýp¬¼K¢=˜
+g^
+ì§ Ú0uŒ 6J9Ä¹¬ï’Œø2íÑ„Î~<
+°ßk‹J¯Â$­X¹Å_ÙãÑŽtb,‚R°àòêÓS=0]&fCêœóCÎ[Å*EÆ-îX_|göìd’YšéèÛÊ·¹æ‚&Ûÿ4…¤ÁÆ
+d»,ûâ?µÊBX²b@»}qæÓý?¢(Ä£MÎÆŸðÚÏ`R™¸EZÿªJ:‚Ø6$>‹Î$_àk?R^ 2hêJ+h.UW’æ˜-ýõ
+'Œ)ÑIoœ˜ã8¸=`y®:_D§Ó½Mwù½ÄB-²ŸSà"ŒYÇðø'„ ¯:}yB £<šÉßÂÔ“¬F2î˜‡iÈ®ùÅLWúr^êÊ™éÙB-ÂÜ_–`Ñ÷–ŠQê#àão‰Ê}Ñþ”î1bï#šLŸYv<õH4ØTbá]D†Y¹Ÿ=¸Dµ ‡«­Ö™¾­1eIÐå†yV>š1Q7á8mB4åüžª £›¡ õ
+.#®ôG—	=c€µ$Ú¹Ò;(X¬Þ³ÌÕuœuâÚZråøXÞ„.åj¬uYeG¾EÌ#y¼(È8¬`£Os¡ @Ê
+Ê¼ŠE1‚Œ0‚ˆ0a0I1
+0	UBM10U
+QuoVadis Limited10UQuoVadis Issuing CA G4<¥Õ%u)¥º<s´Io¢Á°ÅlŸ0
+	`†He  ý0	*†H†÷
+	1
+
+*†H†÷
+	0/	*†H†÷
+	1" :µdM)×ý~ù¢‘¿âE…ô(îl§º#5D0­
+*†H†÷
+	10š0—0}+:Nksx_Üso³ÍÕP‘Ÿ7â0e0M¤K0I1
+0	UBM10U
+QuoVadis Limited10UQuoVadis Issuing CA G4<¥Õ%u)¥º<s´Io¢Á°ÅlŸ0_Ö°­x»~Ã½óÙu7#á
+å#G0
+	*†H†÷
+ ‚ Jg½¿ÔXÂ’9½ø6Vcë]aèf
+¦°0ç’D#·ˆéË®7Î Ùpãˆˆæ÷6é¾öFlÈú½Í[âH']~ê,-ÃºJ¢ÛÚ
+Žr¸þu6&#øL¿-ì<¤¡5åF:ó
+¶N]õ¨®ï–-€¢E®y½Rx¶![bñCè-¢‰ÆdI¤–š„+Ä5t~½dÛh}*ÚÓ
+äö[Ë#ÀçÔŸ`3ÑÊ)ÊæóÔ —çãK©Q‘ñÎ #P´ºç4GØls&zÂk`|‹Ã‡q^˜å¾Ç,fïÌªJCËŒ÷úçÀ eÁ/Â¹ÁüUŸ
+#îIûÊ0‚!°
++‚71‚! 0‚!œ	*†H†÷
+  ‚!0‚!‰10
+	`†He 0\
++‚7 N0L0
++‚70	  ¢€ 010
+	`†He  j@Áñð4°Åð;M¡ŸoÏÊEöâ'g¨TiÃ÷?‹e  ‚
+d0‚{0‚c 3   —×Ÿ…n£¤     —0
+	*†H†÷
+
+ 0Ž1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1806U/Microsoft Windows Third Party Component CA 20120
+200311174759Z
+210305174759Z0‘1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1;09U2Microsoft Windows Hardware Compatibility Publisher0‚"0
+	*†H†÷
+ ‚ 0‚
+‚ ³IYk8å$!mmÚäé>¿,„ãˆ|b¯q òÅ…Ro,¨9¾’oì‚‹Ò.ºSñ7ô#k@a¬ çDÚ¦»‹Ú1ä²C¤•íÀØÓÕ…£G.ÀÌÀÐ{­`'­çá…g—Ëö[v
+ß†Ä°UV;ñÊéÑví
+¼U®ˆÖmš‡ºÂþÝ_MÔÖìCj h['Íã{§†Òté[VÝ©)‡H)©0R`´•#Ù[Øà2	œ”äô=pÝ®…ÄZøìºBž.ÚwX°}ä)Þ·3R'4
+húÍêX[zt%:ëÆbŒD”L;¬[{ð_r9Ð]ûu' £‚Ë0‚Ç0+U%$0"
++‚7
+'
++‚7
++ 0U ¥.uê
+'÷´ÛHÈì’K2PòÅ0PUI0G¤E0C1)0'U
+ Microsoft Operations Puerto Rico10U
+232825+4590560U#0€aq§‡¯ÿiÕ!vOR“( ¾y«„0tUm0k0i g e†chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0+ u0s0q+ 0†ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0Uÿ0 0
+	*†H†÷
+
+ ‚ ŒÆî7
+]:Ð©"[GNõü'®Ìÿ·G«¬0Ö0Ü¥1×Òô¨-ÝnD¨=s_±„pé©FäÖxQºôq2-&»;_0ºQàñ\iÈhÄùñÒÊâèø×HtÑã|jÀì\6·©í7ˆØ »šÇÔª8©"äŒÂœTÎ(¨!oŽ0± í•Kñ¤õìGqWtï±¯V>QpJ–¥Ag§ŸCp
+„' æSíÍáÞÀLÓ›]"àM£>â¨D¬ðàÏÉjÆÂ/Sb¼ î/øLW+-\ažPæí¬7VÀûëZpfÉcœí[z	Þ»£`wõEØEõÊ üÑ‰S0‚á0‚É 
+a
+ªÁ     	0
+	*†H†÷
+
+ 0ˆ1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0Ž1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1806U/Microsoft Windows Third Party Component CA 20120‚"0
+	*†H†÷
+ ‚ 0‚
+‚ £œ0„	§c.Ï
+Gðê$ù£0 ^W1&š1 ²PÔÎg	e
+Z¥K®Õí.ç¥™µŸh/˜‹X¬ ´)Äq½(¥ý<›däÅëßa%¼ðîh¿Ñ§Ë~*Nd\S†yW7a·˜ù N"Y›ù-g<'<Vfãýe}†½5GèŠÌôÚŽéjN«§Uì¢‰Õ3ESËùžw½Í,ù¸tèûáCÑ
+éªÜ7o½þ¸íMFN
+¬ü‚èìVƒŽ:ídtêd²f¶hmÈp }PH.=Cîà$•ÆÍŽÇý¸ä•ÏÝ~û•^¡ÍC± ×¤0î›†*nÁ
+Y¢to‹ £‚C0‚?0	+‚7 0Uaq§‡¯ÿiÕ!vOR“( ¾y«„0	+‚7
+ S u b C A0
+U†0Uÿ0ÿ0U#0€ÕöVËè¢\bhÑ=”[×ÎšÄ0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+ N0L0J+ 0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+	*†H†÷
+
+ ‚ ZŠgÚÌÕý
+&Aw¿
+Fx´³Þi+w#Âe/_ÒôaºP.Œ9ról>j±vmì·ó‚ÜÌ»Åip(sf?TëîHÄFÙ€®:ymh°žê-?9ÓÊ8~½^|nÜÆÂô83haâRGƒá VÒºË‡‚1
+A‹Nç__í_Ó9-Eë¢¿ýÂ˜Aqa_È
+p%|Yi1$äqç
+»÷ŸrÉÒ»¾=þ	²C´Y™S“–!_àÖ·&B•6¬'ý¾ô…wh=½ô¾˜ˆ"†RóEì—p‡£pCq<ÛÉ†õs[Æ}á\dí×ÅH×í2âÑªÓÏ§öWNaùwëgòˆ³Þ ÚÐŠ47>Øb¸Ò±óá/‹r;–|oüìfvr`$ò ‰m[m .ï(Ý†‡Â´¹å¾dÂ*òJ\˜âÄ'…ÿRãb~²
+×fÇ
+²Ó= P2Yƒ
+}›íZ8Rº/^ rŽJñýçqŒ;á ¾ÉsôÝGØ´ï´¤³0¹‰>vÊ¹ ˜V~«êŠ¸¥Ð8«iw
+/éªA÷º½:+4Šî
+«cæc÷ˆ$Ž 
++;ãÂIR¬Ÿ9;]ÔnPjæ}R:ª|3)
+&^X§N©=z„ot?`Ÿä2O6 ¯mqÓ>¦Fe_tñþÁqÚL AZ‚Ýñ1‚«0‚§0¦0Ž1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1806U/Microsoft Windows Third Party Component CA 20123   —×Ÿ…n£¤     —0
+	`†He  á0
+*†H†÷
+	10	*†H†÷
+	1
++‚70
++‚7
+10
++‚70/	*†H†÷
+	1" hiÂL7Ü­ú[u#]y“±‚çK…Ë¶ýù†j30b
++‚71T0R $€" I n t e l   C o r p o r a t i o n¡*€(https://www.microsoft.com/en-us/windows 0
+	*†H†÷
+ ‚ x (|=ðIá‚u²~+“'´B
+ëmÁ‹
+OÝûÝ+Á/4GI6e2…„a¬Ï•ëòtÈÏ X¾þôª×ùßÒ_ˆwânš¼¢˜xk:ãYÔøÏî™ZqoÖ§'£²dàÎ¡K›Ñ<
+‚¤¾8ö(54FyÀâpdR‹Þ”ÙiT£G¥kœLýŠäê²•h MÃNpÇ·Õ_
+C!%½	&Z¦ˆæ´²ÿú³¿í5ÍªŸYŸq3Q«ÁýC-eØ ®Ê;!E`ÜÏUY³Š“2#Ÿ F^°+Êë«G…Ö-èäÄ°aøOMÃþ+À@ËJ*4
+Fßã{G®oö4¡‚ñ0‚í
++‚71‚Ý0‚Ù	*†H†÷
+  ‚Ê0‚Æ10
+	`†He 0‚U
+*†H†÷
+	 ‚D‚@0‚<
++„Y
+010
+	`†He  µ·v¥ÕQÈàèôØÙ?%NuxÝvÏãÓ%¶‡¤àl_a
+Á§20200930132036.929Z0€ô Ô¤Ñ0Î1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1)0'U
+ Microsoft Operations Puerto Rico1&0$U
+Thales TSS ESN:4D2F-E3DD-BEEF1%0#UMicrosoft Time-Stamp Service ‚D0‚õ0‚Ý 3  +“ÐíŽ
+÷ðG    +0
+	*†H†÷
+
+ 0|1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100
+191219011502Z
+210317011502Z0Î1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1)0'U
+ Microsoft Operations Puerto Rico1&0$U
+Thales TSS ESN:4D2F-E3DD-BEEF1%0#UMicrosoft Time-Stamp Service0‚"0
+	*†H†÷
+ ‚ 0‚
+‚ –ú‹ÀYZW %¹Ø 4pH\³9m«µ³lIš:ðß(ZBþ@¬üãdj"( N[féÑØÉÕ„Q¨ÇWéŽà%?R§ÁU#]Äay#§zÔŒ0\Ûû5Š×]R Ù}÷ü<y®nÖz„¢iB¸Ý¢¦2ÜÄOh@’ê0!¬B½ß®‚bg#þ??ñI‡ÈÓüaQÎBõÃ/ähŒ—½u
+87¿ò uî²¤°÷˜Y™m¦´¾Ç6ô³ÓŠâ~6pÝ	Ø?"ã ’‹~
+¯Ú}tUW¿¾fRš cšñž1ö&ØwÄLO’…
+ijï!ºœ¤ë=» P”Á° £‚0‚0U"ïht¸R¹t–acóÐw’ˆÀ“0U#0€Õc:\Š1óC{|FÅ3hZ…mU0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z+ N0L0J+ 0†>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0Uÿ0 0U%0
++ 0
+	*†H†÷
+
+ ‚ g?ùØ¥¦>n•lâ2e´¬UxpëÝ¦p§ƒåèÆÖg6[¡%¤ºû9æàç;ó½;D_(Ÿ%ÓIbL¼pÕ„ûâ¡®cr…š¥†Ãƒ¨bê%'PÿÆ×ádó‹Œ˜í+j‘E._”ÑEX{Ì×U©.æá³GÌ§u5F&ÐT#½ÜS¼{É^|'_2ŸÆÌœO(³IÔ#f((iüõ•)/ØâmùXMØŠ¹“22¹ì@è¡H=¾¬«Ø¯j*$ß¦0ßP²I(ëE/81VæÏ—?&
+DûÅÁ•=êœ.
+ÍW÷|Ð'Zh‚,##ˆ
+ð„,Í›ÀœÈ0‚q0‚Y 
+a	*     0
+	*†H†÷
+
+ 0ˆ1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100‚"0
+	*†H†÷
+ ‚ 0‚
+‚ ©
+¼wŠ: ìü—õúi”ktTÕ¥
+ ‚…ûí|hK,_ÅÃåaÂv·>f+[ðS'1A•Î	Ž|a0Y±0Dñ`ˆ„TC×M¸8³BÝ“¬Ös0W&‚£E
+ÐêõGÍ¿$`2X`FòXG†2„tag‘_T±Ï“L’ÁÄ¦]Ñan(Æù†€»ßaüFÁ'$gr!Š¯Kd‰Pb±]ýw=ðWu¬½ŠBM@QÑœ>gõfÀ–D~ïÐKýnåšÊ±¨òz*
+1ðÚN‘¶ˆ5èx°é™Í<ç/Dº§ôÜd½¤Á 	“xÍü¼ÀÉD]^œO"M £‚æ0‚â0	+‚7 0UÕc:\Š1óC{|FÅ3hZ…mU0	+‚7
+ S u b C A0
+U†0Uÿ0ÿ0U#0€ÕöVËè¢\bhÑ=”[×ÎšÄ0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+ N0L0J+ 0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0 U ÿ•0’0	+‚7.00=+ 1http://www.microsoft.com/PKI/docs/CPS/default.htm0@+ 042  L e g a l _ P o l i c y _ S t a t e m e n t . 0
+	*†H†÷
+
+ ‚  æˆQ
+âÆà˜?q=£¡!o³ë¦Ìõ1¾Ïâ©þúWm0³ÂÅfÉjßõçðx½Ç¨ž%ãù¼íkTW+Q‚Dû¹SŒÌô`ŠvÌ@@A›Ü\ÿ\ù^5˜$VKtïBÈ¯¿Æò7}Z?ò™yJ‘R ¯8õ/yeÙ©µkäÇÎöÊz oK0D$"<Ïí¥–Y)¼¶ýápŸ2J'ýU¯/þ¶åŽ3»b_šÛW@éñÎ™fŒÿjbÝÅJ
+‘&â9ìJqc{!mÃœ£¢<ú}–jx¦mÒáœùü8Ø”ôÆ¥
+–†¤½ž®Bƒ¸µ€›"8 µ%ådì÷ô¿~cY%z.9Wv¢qªŠ‰ºa§ËšØGš€ÅÐÍ§Ðï}ƒðá;q	ß]t˜"aÚ°Po½ñá ßç1 ¤“:÷eGxèø¨H«÷Þr~akow©Ë§	¬9»ìÆËØ‚´rÍô¸…€û‰*T9²[ÚÈ
+U™z‡s;æ˜-êà3.)õÀ/T'!÷È¬NÚ(¸±©Û–²§B¢ÉÏAMà†ù*š£f0Ó»t2Kßc{õ™Š/Ç!¯Yµ®ÜD<—Pq×¡ÒÅUãiÞWÁÑÞ0ÀýÌæMû
+¿]Oé8/¼ÏX.ï
+ P5Úï	'Õ³~5ºÚ6ÛÓ_ÞtˆI¡‚Ò0‚;0ü¡Ô¤Ñ0Î1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1)0'U
+ Microsoft Operations Puerto Rico1&0$U
+Thales TSS ESN:4D2F-E3DD-BEEF1%0#UMicrosoft Time-Stamp Service¢#
+0 + D6’çÿIúÐ>Þ/zY‡CO¦ ƒ0€¤~0|1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100
+	*†H†÷
+  ã¦50"20200930103741Z20201001103741Z0w0=
++„Y
+1/0-0
+ ã¦5 0
+  \ÿ0  ©0
+ ã÷µ 06
++„Y
+1(0&0
++„Y
+ 
+0  ¡ ¡
+0 † 0
+	*†H†÷
+  @€Mºu#®Ûùwb*€Æ¦þËƒÑÖ8È¤éí12Î¾Ö‹Éšds”a· ÷o«ìpWYD©é+TcÇÄìãÞ4Ôƒâ™ÓŠÍ)tŸ‰hò`ÚL­I©a”ø%ù°i´p¡¢4zöNŒÚî‘.}¸uÛ
+;˜&ï1‚
+0‚	0“0|1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  +“ÐíŽ
+÷ðG    +0
+	`†He  ‚J0	*†H†÷
+	1
+
+*†H†÷
+	0/	*†H†÷
+	1" ³"8ñÆó/Œ‘œ:½q”3’x Ô3›Û‚A{Ž80ú
+*†H†÷
+	/1ê0ç0ä0½ d'9æJ…ÂS,\Ü{ØŒâ*XÇFè¾­L7*ÂÚ]Ï_0˜0€¤~0|1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  +“ÐíŽ
+÷ðG    +0" gýÁ¼q}9¿ ?
+\ØÆXÛÄ€Œï?ªÑÓ¢Ì* 0
+	*†H†÷
+
+ ‚ OÎ`~›6I¨{*ä¢•ÊC›Ñ>”­Òš¬&JŒ}, ·;ë^åQÛï ì/Ã&|:wÐöü†Ì–[Q¹Ëüî•\bµæ–kRâZr°öqãeôçñ‹9ÊPÝ5i°”áên› 
+Ÿ)‡mrÑW1uûTçTmcP ˆ»S×SQyÙõ(CúÃ¤”29aÚ±·’âN‘¨Á­8êÙîl!ý¯RXÿPQ GºÌÙy’ñ©—Êep¬ÁÆ­™ÿºþÀ³x€î_½Êl°8Cx³ˆ°ëÔ&&Ä¥ekâÎpÑC‡'ï_llh¥p©™oÜ¸Ê>þ3·à‡Ø${”à´o
+ÖÍJIÖ>ó[ 
